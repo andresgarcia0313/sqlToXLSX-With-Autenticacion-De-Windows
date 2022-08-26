@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "ms-mssql.data-workspace-vscode",
+        "eamodio.gitlens",
+        "visualstudioexptteam.vscodeintellicode",
+        "pkief.material-icon-theme",
+        "ms-vscode.powershell",
+        "ms-ceintl.vscode-language-pack-es",
+        "ms-mssql.mssql"
+    ]
+}
